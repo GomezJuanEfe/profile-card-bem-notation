@@ -67,6 +67,7 @@ footer {
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - The best flexbox guide ever! This article helped me to remember some flexbox concepts.
 - [BEM Methodology - Quick Start](https://en.bem.info/methodology/quick-start/) - This is the BEM Methodology official page. Helped me to review the BEM concepts.
 - [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/) - I found this article pretty intersting. I didn't read all the article but helped me to solve some questions.
+- [Set Fill Color of SVG Background-image](https://pqina.nl/blog/set-svg-background-image-fill-color/) A quick guide explaining how to change the color of an SVG when it’s used as a CSS background-image. Some incredible things we can do with SVG.
 
 ## Author
 
